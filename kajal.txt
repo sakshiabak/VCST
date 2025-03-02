@@ -18,6 +18,8 @@ public class JavaProgram
     devide = (float) first / second;
 
     System.out.println("Sum = " + add);  
-System.out.println("sub =" +sub)
+    System.out.println("sub =" +sub);
+    System.out.println("mul=" *mul);
+
 }
 }
